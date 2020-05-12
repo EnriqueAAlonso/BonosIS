@@ -20,7 +20,5 @@ class ValidationTest(unittest.TestCase):
         resultado=validation.validateIdUsuario("123123123")
         self.assertEqual(resultado, True, "El resultado es incorrecto")
 
-validate=ValidationTest()
-validate.test_Bono()
-validate.test_Usuario()
-validate.test_flavor()
+
+unittest.main()

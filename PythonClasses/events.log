@@ -1,22 +1,82 @@
 INFO:root:Entra a la funcion de validacion de bono con el bono TestString
-ERROR:root:Ocurrio un problema al convertir TestString en un entero
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
 INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
-DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int
-INFO:root:Entra a la funcion de validacion de bono con el bono TestString
-ERROR:root:Ocurrio un problema al convertir TestString en un entero
-INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
-DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
 INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario TestString
-ERROR:root:Ocurrio un problema al convertir TestString en un entero
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
 INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario 123123123
-DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int
-INFO:root:Se recibio el siguiente flavor TestString
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Se recibio el siguiente flavor TestString 
+
 INFO:root:Entra a la funcion de validacion de bono con el bono TestString
-ERROR:root:Ocurrio un problema al convertir TestString en un entero
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
 INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
-DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
 INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario TestString
-ERROR:root:Ocurrio un problema al convertir TestString en un entero
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
 INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario 123123123
-DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int
-INFO:root:Se recibio el siguiente flavor TestString
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Se recibio el siguiente flavor TestString 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario ashjkdalkd
+ERROR:root:Ocurrio un problema al convertir ashjkdalkd en un entero 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario 123123123
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Se recibio el siguiente flavor TestString 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario 123123123
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Se recibio el siguiente flavor TestString 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de validacion de bono con el bono 123123123
+DEBUG:root:Se valido que la variable 123123123 fuera convertida correctamente a un int 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario TestString
+ERROR:root:Ocurrio un problema al convertir TestString en un entero 
+
+INFO:root:Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario asdasdasd
+ERROR:root:Ocurrio un problema al convertir asdasdasd en un entero 
+
+INFO:root:Se recibio el siguiente flavor TestString 
+

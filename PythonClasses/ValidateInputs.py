@@ -22,10 +22,10 @@ class ValidateInputs:
         logging.info("Entra a la funcion de validacion de bono con el bono {}".format(IdBono))
         try:
             int(IdBono)
-            logging.debug("Se valido que la variable {} fuera convertida correctamente a un int".format(IdBono))
+            logging.debug("Se valido que la variable {} fuera convertida correctamente a un int \n".format(IdBono))
             return True
         except ValueError:
-            logging.error("Ocurrio un problema al convertir {} en un entero".format(IdBono))
+            logging.error("Ocurrio un problema al convertir {} en un entero \n".format(IdBono))
             return False
     def validateIdUsuario(self, IdUsuario):
         '''
@@ -45,10 +45,10 @@ class ValidateInputs:
         logging.info("Entra a la funcion de la validacio del identificador del usuaario con el ID de Usuario {}".format(IdUsuario))
         try:
             int(IdUsuario)
-            logging.debug("Se valido que la variable {} fuera convertida correctamente a un int".format(IdUsuario))
+            logging.debug("Se valido que la variable {} fuera convertida correctamente a un int \n".format(IdUsuario))
             return True
         except ValueError:
-            logging.error("Ocurrio un problema al convertir {} en un entero".format(IdUsuario))
+            logging.error("Ocurrio un problema al convertir {} en un entero \n".format(IdUsuario))
             return False
     def validateFlavor(self, flavor):
         '''
@@ -65,6 +65,6 @@ class ValidateInputs:
             Resultado de la validacion del tipo de dato.
 
         '''
-        logging.info("Se recibio el siguiente flavor {}".format(flavor))
+        logging.info("Se recibio el siguiente flavor {} \n".format(flavor))
         return isinstance(flavor, str)
         
