@@ -80,3 +80,127 @@ ERROR:root:Ocurrio un problema al convertir asdasdasd en un entero
 
 INFO:root:Se recibio el siguiente flavor TestString 
 
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:Entra a la funcion de validacion de ISIN con ISIN US0378331005
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:checkSum creado con valor 6
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:checkSum creado con valor 6
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El arreglo impar despues de la multiplicacion es [6, 4, 0, 14, 6, 2, 0]
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 0
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 8
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 11
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 19
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 6, el valor final de la suma es 28
+INFO:root:Se ha sumado 4, el valor final de la suma es 32
+INFO:root:Se ha sumado 0, el valor final de la suma es 32
+INFO:root:Se separo el siguiente 14 en dos digitos
+INFO:root:Se ha sumado 4, el valor final de la suma es 37
+INFO:root:Se ha sumado 6, el valor final de la suma es 43
+INFO:root:Se ha sumado 2, el valor final de la suma es 45
+INFO:root:Se ha sumado 0, el valor final de la suma es 45
+INFO:root:checkSum creado con valor 5
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El arreglo impar despues de la multiplicacion es [6, 4, 0, 14, 6, 2, 0]
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 0
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 8
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 11
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 19
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 6, el valor final de la suma es 28
+INFO:root:Se ha sumado 4, el valor final de la suma es 32
+INFO:root:Se ha sumado 0, el valor final de la suma es 32
+INFO:root:Se separo el siguiente 14 en dos digitos
+INFO:root:Se ha sumado 4, el valor final de la suma es 37
+INFO:root:Se ha sumado 6, el valor final de la suma es 43
+INFO:root:Se ha sumado 2, el valor final de la suma es 45
+INFO:root:Se ha sumado 0, el valor final de la suma es 45
+INFO:root:checkSum creado con valor 5
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El arreglo impar despues de la multiplicacion es [6, 4, 0, 14, 6, 2, 0]
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 0
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 8
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 11
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 19
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 6, el valor final de la suma es 28
+INFO:root:Se ha sumado 4, el valor final de la suma es 32
+INFO:root:Se ha sumado 0, el valor final de la suma es 32
+INFO:root:Se separo el siguiente 14 en dos digitos
+INFO:root:Se ha sumado 4, el valor final de la suma es 37
+INFO:root:Se ha sumado 6, el valor final de la suma es 43
+INFO:root:Se ha sumado 2, el valor final de la suma es 45
+INFO:root:Se ha sumado 0, el valor final de la suma es 45
+INFO:root:checkSum creado con valor 5
+INFO:root:
+ Entra a la funcion de creacion de ISIN con Cusip 037833100 y prefijo 3028
+INFO:root:
+ Entra a la funcion de validacion de ISIN con ISIN US0378331005
+INFO:root:
+ El prefijo obtenido del ISIN tiene un valor de  3028
+INFO:root:El arreglo impar es   [3, 2, 0, 7, 3, 1, 0]
+INFO:root:El arreglo par es   [0, 8, 3, 8, 3, 0]
+INFO:root:El arreglo impar despues de la multiplicacion es [6, 4, 0, 14, 6, 2, 0]
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 0
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 8
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 11
+INFO:root:Se ha sumado 8,de los pares el valor final de la suma es 19
+INFO:root:Se ha sumado 3,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 0,de los pares el valor final de la suma es 22
+INFO:root:Se ha sumado 6, el valor final de la suma es 28
+INFO:root:Se ha sumado 4, el valor final de la suma es 32
+INFO:root:Se ha sumado 0, el valor final de la suma es 32
+INFO:root:Se separo el siguiente 14 en dos digitos
+INFO:root:Se ha sumado 4, el valor final de la suma es 37
+INFO:root:Se ha sumado 6, el valor final de la suma es 43
+INFO:root:Se ha sumado 2, el valor final de la suma es 45
+INFO:root:Se ha sumado 0, el valor final de la suma es 45
+INFO:root:checkSum creado con valor 5
+INFO:root:
+ Entra a la funcion de creacion de ISIN con Cusip 037833100 y prefijo 3028
+INFO:root:
+ Entra a la funcion de validacion de ISIN con ISIN US0378331005
